@@ -81,3 +81,10 @@ Ensure .env values are set in dashboard
  Chat UI (DM screen)
 
  Dark mode
+
+
+
+ Login page🌟
+
+UserName : devil_with_curls
+Password : Moul@2002
